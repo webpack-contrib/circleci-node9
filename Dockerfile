@@ -66,7 +66,7 @@ USER circleci
 # Setup NVM Install Environment
 # ...
 ENV NPM_CONFIG_LOGLEVEL info
-ENV NODE_VERSION 9.3.0
+ENV NODE_VERSION 9.10.1
 
 USER root
 
